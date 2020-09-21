@@ -1,0 +1,7 @@
+version: '3.3'
+
+services:
+  cookie-clicker:
+    build: .
+    ports:
+      - 8528:4200
