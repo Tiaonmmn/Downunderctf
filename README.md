@@ -22,7 +22,8 @@
 
 ## 复现说明及修改
 
-该环境根据[DownUnderCTF官方Repo](https://github.com/DownUnderCTF/Challenges_2020_public/tree/master/web/cookie-clicker)源码进行复现。
+- 该环境根据[DownUnderCTF官方Repo](https://github.com/DownUnderCTF/Challenges_2020_public/tree/master/web/cookie-clicker)源码进行复现。
+- flag位于Google firebase，固定值（这没办法）。
 
 ## 版权
 
